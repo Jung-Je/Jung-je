@@ -25,3 +25,4 @@
 </div>
 
 [![](https://raw.githubusercontent.com/yesaroun/yesaroun/main/profile-summary-card-output/highcontrast/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
