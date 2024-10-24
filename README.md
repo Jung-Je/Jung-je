@@ -17,12 +17,13 @@
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="border-radius: 50%; overflow: hidden;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jung-Je&layout=compact" alt="Top Languages" style="border-radius: 50%; width: 150px; height: 150px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jung-Je&layout=compact" alt="Top Languages" style="border-radius: 50%;"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" style="border-radius: 50%; overflow: hidden;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jung-Je" alt="GitHub Stats" style="border-radius: 50%; width: 150px; height: 150px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Jung-Je" alt="GitHub Stats" style="border-radius: 50%;"/>
   </a>
 </div>
+
 
 
 
