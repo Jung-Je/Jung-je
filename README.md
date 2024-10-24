@@ -15,12 +15,12 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 </div>
 
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jung-Je" alt="Top Languages" />
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="border-radius: 50%; overflow: hidden;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jung-Je&layout=compact" alt="Top Languages" style="border-radius: 50%; width: 150px; height: 150px;"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jung-Je" alt="GitHub Stats" />
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="border-radius: 50%; overflow: hidden;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jung-Je" alt="GitHub Stats" style="border-radius: 50%; width: 150px; height: 150px;"/>
   </a>
 </div>
 
