@@ -1,7 +1,10 @@
-# Hi there, I'm Jung_Je 👋
+<img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=15&text=🧑‍💻LeeJungJe&section=header&textBg=false&fontColor=f3f5ff&fontSize=75&animation=fadeIn&rotate=0&strokeWidth=0&desc=Backend%20developer&descAlign=58&descAlignY=61&descSize=18">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D260F7&width=435&lines=Python+Backend+Developer" alt="Typing SVG" /></a>
-
+<h3 align="center">  
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2dayeonkimm&count_bg=%23D2F3FF&title_bg=%96C7ED&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a><br>
+🔬 I'm currently studying backend.
+</h3>
+<br>
 
 
 <p align="center">
