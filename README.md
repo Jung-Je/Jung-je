@@ -38,10 +38,6 @@
         <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
         <br>PostgreSQL
       </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
-        <br>Docker
-      </td>
     </tr>
   </table>
 </div>
